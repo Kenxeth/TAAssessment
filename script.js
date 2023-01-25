@@ -7,11 +7,11 @@ function getInput(){
         document.location.pathname = "index.html";
     }
     else if(input.toLowerCase() == "about me"  || input.toLowerCase() == "2"){
-        document.location.pathname = "../htmlFiles/aboutme.html";
+        document.location.pathname = "./htmlFiles/aboutme.html";
     }else if(input.toLowerCase() == "socials" || input.toLowerCase() == "3"){
-        document.location.pathname = "../htmlFiles/socials.html";
+        document.location.pathname = "./htmlFiles/socials.html";
     }else if(input.toLowerCase() == "hobbies" || input.toLowerCase() == "4"){
-        document.location.pathname = "../htmlFiles/hobbies.html"
+        document.location.pathname = "./htmlFiles/hobbies.html"
     }
 }
 

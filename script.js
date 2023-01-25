@@ -11,7 +11,7 @@ function getInput(){
     }else if(input.toLowerCase() == "socials" || input.toLowerCase() == "3"){
         document.location.pathname = "TAAssessment/htmlFiles/socials.html";
     }else if(input.toLowerCase() == "hobbies" || input.toLowerCase() == "4"){
-        document.location.pathname = "TAAsessment/htmlFiles/hobbies.html"
+        document.location.pathname = "TAAssessment/htmlFiles/hobbies.html"
     }
 }
 

@@ -1,0 +1,39 @@
+#inputArea{
+    text-align: center;
+    margin-top: 180px;
+    color: #2B2C28;
+    font-family: 'Orbitron', sans-serif;
+}
+#inputBtn{
+    color: #C1292E;
+    font-family: 'Orbitron', sans-serif;
+}
+.borderR{
+    border-radius: 20px;
+    width: 140px;
+    height: 30px;
+}
+*{
+    background-color: #131515;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#textBlue{
+    color: #A6D9F7;
+}
+.hobby{
+    color: #A6D9F7;
+}
+
+.soccerHobby{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.friendsHobby{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}

@@ -1,0 +1,33 @@
+#inputArea{
+    text-align: center;
+    margin-top: 180px;
+    color: #2B2C28;
+    font-family: 'Orbitron', sans-serif;
+}
+#inputBtn{
+    color: #C1292E;
+    font-family: 'Orbitron', sans-serif;
+}
+.borderR{
+    border-radius: 20px;
+    width: 140px;
+    height: 30px;
+}
+*{
+    background-color: #131515;
+}
+#socialsRow{
+    display:flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.hidden{
+    visibility: hidden;
+}
+
+#textColor{
+    color: #CEB992
+}

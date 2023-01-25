@@ -1,0 +1,28 @@
+#centerText{
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    color: #CEB992;
+}
+*{
+    background-color: #131515;
+}
+
+#aboutMeTags {
+    color: #C1292E;
+}
+
+#inputArea{
+    text-align: center;
+    margin-top: 180px;
+    color: #2B2C28;
+    font-family: 'Orbitron', sans-serif;
+}
+#inputBtn{
+    color: #C1292E;
+    font-family: 'Orbitron', sans-serif;
+}
+.borderR{
+    border-radius: 20px;
+    width: 140px;
+    height: 30px;
+}
